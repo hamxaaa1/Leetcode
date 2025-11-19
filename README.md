@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/hamxaaa1/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hamxaaa1/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Union Find
 |  |
 | ------- |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
