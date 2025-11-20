@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hamxaaa1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -42,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hamxaaa1/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
