@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/hamxaaa1/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/hamxaaa1/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/hamxaaa1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/hamxaaa1/Leetcode/tree/master/0682-baseball-game) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hamxaaa1/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Union Find
@@ -40,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Stack
 |  |
@@ -58,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/hamxaaa1/Leetcode/tree/master/0682-baseball-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
