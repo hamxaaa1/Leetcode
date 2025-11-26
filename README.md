@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hamxaaa1/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/hamxaaa1/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hamxaaa1/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/hamxaaa1/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hamxaaa1/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/hamxaaa1/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
