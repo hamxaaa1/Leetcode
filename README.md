@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/hamxaaa1/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hamxaaa1/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/hamxaaa1/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hamxaaa1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/hamxaaa1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/hamxaaa1/Leetcode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/hamxaaa1/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hamxaaa1/Leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hamxaaa1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/hamxaaa1/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hamxaaa1/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hamxaaa1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/hamxaaa1/Leetcode/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
