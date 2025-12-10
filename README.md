@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/hamxaaa1/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hamxaaa1/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/hamxaaa1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamxaaa1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/hamxaaa1/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -124,4 +125,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/hamxaaa1/Leetcode/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hamxaaa1/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hamxaaa1/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
