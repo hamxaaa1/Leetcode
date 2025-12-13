@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/hamxaaa1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/hamxaaa1/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hamxaaa1/Leetcode/tree/master/0739-daily-temperatures) |
+| [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [0922-sort-array-by-parity-ii](https://github.com/hamxaaa1/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/hamxaaa1/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hamxaaa1/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/hamxaaa1/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hamxaaa1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hamxaaa1/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Union Find
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hamxaaa1/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
+| [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Stack
 |  |
