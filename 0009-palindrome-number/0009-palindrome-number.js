@@ -12,6 +12,6 @@ var isPalindrome = function (x) {
         left++;
         right--;
     }
-
+   
     return true;
 };  
