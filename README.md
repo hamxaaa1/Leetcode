@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/hamxaaa1/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/hamxaaa1/Leetcode/tree/master/0896-monotonic-array) |
+| [0908-smallest-range-i](https://github.com/hamxaaa1/Leetcode/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/hamxaaa1/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/hamxaaa1/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hamxaaa1/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamxaaa1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/hamxaaa1/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hamxaaa1/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/hamxaaa1/Leetcode/tree/master/0908-smallest-range-i) |
 ## Sorting
 |  |
 | ------- |
