@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/hamxaaa1/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hamxaaa1/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/hamxaaa1/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/hamxaaa1/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hamxaaa1/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/hamxaaa1/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/hamxaaa1/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/hamxaaa1/Leetcode/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -162,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0455-assign-cookies](https://github.com/hamxaaa1/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/hamxaaa1/Leetcode/tree/master/0860-lemonade-change) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/hamxaaa1/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
