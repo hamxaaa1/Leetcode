@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/hamxaaa1/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/hamxaaa1/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hamxaaa1/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hamxaaa1/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
