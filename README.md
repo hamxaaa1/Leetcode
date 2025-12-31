@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/hamxaaa1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hamxaaa1/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamxaaa1/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hamxaaa1/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamxaaa1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/hamxaaa1/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/hamxaaa1/Leetcode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamxaaa1/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/hamxaaa1/Leetcode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamxaaa1/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
