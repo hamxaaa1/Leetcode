@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/hamxaaa1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hamxaaa1/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hamxaaa1/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamxaaa1/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hamxaaa1/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/hamxaaa1/Leetcode/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hamxaaa1/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hamxaaa1/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Union Find
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/hamxaaa1/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/hamxaaa1/Leetcode/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hamxaaa1/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/hamxaaa1/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hamxaaa1/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
