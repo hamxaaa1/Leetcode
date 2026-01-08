@@ -3,7 +3,7 @@
  * @return {string}
  */
 var longestCommonPrefix = function (strs) {
-    // ["inration", "iner", "inral", "inrate"]
+    // ["inration", "iner", "inral", "inrate"] 
 
     let str = "";
     if (strs.length === 1 || strs[0].length === 0) {
