@@ -12,7 +12,7 @@ var longestConsecutive = function(nums) {
                 length++
             }
         if (length > maxLength) {
-            maxLength = length
+            maxLength = length 
         }
         }
     }
