@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/hamxaaa1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/hamxaaa1/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hamxaaa1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/hamxaaa1/Leetcode/tree/master/1122-relative-sort-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hamxaaa1/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [1528-shuffle-string](https://github.com/hamxaaa1/Leetcode/tree/master/1528-shuffle-string) |
 ## Math
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hamxaaa1/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/hamxaaa1/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Stack
@@ -197,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
