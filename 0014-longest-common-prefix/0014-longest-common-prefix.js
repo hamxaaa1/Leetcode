@@ -7,7 +7,7 @@ var longestCommonPrefix = function (strs) {
 
     let str = "";
     if (strs.length === 1 || strs[0].length === 0) {
-        return strs[0]
+        return strs[0] 
     }
     let small = Infinity
     let length = null;
