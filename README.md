@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/hamxaaa1/Leetcode/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/hamxaaa1/Leetcode/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/hamxaaa1/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hamxaaa1/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/hamxaaa1/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hamxaaa1/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hamxaaa1/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/hamxaaa1/Leetcode/tree/master/0819-most-common-word) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hamxaaa1/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/hamxaaa1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hamxaaa1/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/hamxaaa1/Leetcode/tree/master/1748-sum-of-unique-elements) |
