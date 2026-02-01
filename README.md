@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamxaaa1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hamxaaa1/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hamxaaa1/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hamxaaa1/Leetcode/tree/master/0027-remove-element) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamxaaa1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hamxaaa1/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hamxaaa1/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hamxaaa1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamxaaa1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/hamxaaa1/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/hamxaaa1/Leetcode/tree/master/0860-lemonade-change) |
 ## Counting Sort
