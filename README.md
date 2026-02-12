@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/hamxaaa1/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hamxaaa1/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hamxaaa1/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/hamxaaa1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/hamxaaa1/Leetcode/tree/master/0066-plus-one) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hamxaaa1/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hamxaaa1/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
