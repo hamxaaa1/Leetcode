@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/hamxaaa1/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/hamxaaa1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/hamxaaa1/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hamxaaa1/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/hamxaaa1/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hamxaaa1/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hamxaaa1/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/hamxaaa1/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hamxaaa1/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/hamxaaa1/Leetcode/tree/master/0908-smallest-range-i) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hamxaaa1/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
