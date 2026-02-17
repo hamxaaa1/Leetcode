@@ -14,6 +14,6 @@ var mySqrt = function(x) {
         } else {
             low = mid + 1
         }
-    }
+    } 
     return high
 };
