@@ -9,7 +9,7 @@ var isPalindrome = function (x) {
 
     while (left < right) { 
         if (s[left] !== s[right]) return false; 
-        left++;
+        left++; 
         right--;
     }
 
